@@ -1,0 +1,18 @@
+THE HIDDEN CHAMBER
+
+Behind the false wall in the ballroom, a narrow passage leads down
+a spiral staircase into darkness.
+
+At the bottom, you find a small stone chamber lit by an unknown source.
+In the center sits a pedestal with a single piece of parchment.
+
+The writing is still legible:
+
+    "To whoever finds this, the Whitmore secret dies with me.
+     But if you have made it this far, you deserve the truth.
+
+     utflag{d34d_c0mm1ts_t3ll_n0_t4l3s}
+
+     Guard it well."
+
+                                        - E. Whitmore, 1923
