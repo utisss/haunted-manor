@@ -1,0 +1,13 @@
+THE FOYER
+
+You push open the heavy oak doors. The hinges scream in protest.
+
+The grand foyer stretches before you, marble floors cracked and stained.
+A chandelier hangs overhead, swaying gently despite the still air.
+Cobwebs drape every surface like funeral veils.
+
+A guest book sits on a pedestal near the door. The last entry is dated
+October 31st, 1923. The ink has faded but you can still make out the words:
+"We should never have come here."
+
+Exits: LIBRARY (east), BALLROOM (north)

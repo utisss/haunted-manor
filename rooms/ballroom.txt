@@ -1,0 +1,17 @@
+THE BALLROOM
+
+A vast room with vaulted ceilings and tall windows, all boarded shut.
+
+A grand piano sits in the corner. As you approach, a single key
+presses down on its own, releasing a mournful note that echoes
+through the empty hall.
+
+The dance floor is covered in a thin layer of dust, except for a
+circle in the center where the dust has been disturbed. As if
+someone, or something, has been dancing here recently.
+
+You notice scratch marks on the floor near the north wall. They
+seem to point toward a section of the wallpaper that is slightly
+discolored. Behind it, you find nothing but cold stone.
+
+Exits: FOYER (south), LIBRARY (south)

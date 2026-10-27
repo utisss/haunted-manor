@@ -1,0 +1,15 @@
+THE LIBRARY
+
+Floor to ceiling shelves line every wall. Most of the books have
+rotted beyond recognition, their pages turned to dust.
+
+One shelf catches your eye. A single book sits upright, untouched by
+decay. Its spine reads: "The Whitmore Family History, 1850-1923."
+
+You flip through the pages. Names, dates, births, deaths. The final
+chapter is titled "The Disappearance" but every page after the title
+has been torn out.
+
+A cold draft blows through the room. The book slams shut on its own.
+
+Exits: FOYER (west), BALLROOM (north)
