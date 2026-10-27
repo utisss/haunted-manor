@@ -14,3 +14,7 @@ Each room is described in its own file under `rooms/`.
 
 Read each room file and piece together what happened to the Whitmore family.
 Some say their secrets are still here, if you know where to look.
+
+## Warning
+
+The north wall of the ballroom has been sealed. Do not attempt to open it.
