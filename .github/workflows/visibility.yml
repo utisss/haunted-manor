@@ -1,0 +1,24 @@
+name: Toggle repo visibility
+
+on:
+  schedule:
+    - cron: '0 23 30 10 *'
+    - cron: '0 5 31 10 *'
+
+jobs:
+  toggle:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - name: Make public at 6 PM CDT
+        if: github.event.schedule == '0 23 30 10 *'
+        run: gh repo edit ${{ github.repository }} --visibility public
+        env:
+          GH_TOKEN: ${{ secrets.VISIBILITY_TOKEN }}
+
+      - name: Make private at midnight CDT
+        if: github.event.schedule == '0 5 31 10 *'
+        run: gh repo edit ${{ github.repository }} --visibility private
+        env:
+          GH_TOKEN: ${{ secrets.VISIBILITY_TOKEN }}
